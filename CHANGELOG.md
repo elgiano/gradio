@@ -1,5 +1,17 @@
 # gradio
 
+## 5.6.0
+
+### Features
+
+- [#9906](https://github.com/gradio-app/gradio/pull/9906) [`eafe22c`](https://github.com/gradio-app/gradio/commit/eafe22cd9404d536b03d3fa80003acea78599d49) - Clearer error message in CheckboxGroup's preprocess function.  Thanks @muhammadyaseen!
+
+### Fixes
+
+- [#9897](https://github.com/gradio-app/gradio/pull/9897) [`c0cf80b`](https://github.com/gradio-app/gradio/commit/c0cf80bddd99ad0f836e618cc3d2b13e73cb5611) - Allow datetime value to be null.  Thanks @hannahblair!
+- [#9913](https://github.com/gradio-app/gradio/pull/9913) [`d81f430`](https://github.com/gradio-app/gradio/commit/d81f430fd50546001b76c0ae5fded32c6d3093f7) - fix: Fix filename stripping to preserve extensions.  Thanks @TakaSoap!
+- [#9904](https://github.com/gradio-app/gradio/pull/9904) [`f523c91`](https://github.com/gradio-app/gradio/commit/f523c915d3732859ff4a8019a82cb597b5208ae2) - Ensure dropped files are validated in MultimediaTextbox.  Thanks @hannahblair!
+
 ## 5.5.0
 
 ### Features
